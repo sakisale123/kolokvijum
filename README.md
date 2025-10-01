@@ -1,1 +1,1 @@
-# kolokvijum_vezbe
+ovde pisi zadatak bukv
